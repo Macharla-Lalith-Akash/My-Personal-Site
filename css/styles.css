@@ -44,13 +44,13 @@ h3 {
 .top_cloud {
   position: absolute;
   top: 50px;
-  right: 250px;
+  right: 200px;
 }
 
 .bottom_cloud {
   position: absolute;
   top: 400px;
-  left: 250px;
+  left: 200px;
 }
 
 .pro {
@@ -107,7 +107,7 @@ hr {
 .copy-right {
   font-family: 'Merriweather', serif;
   color: #EAF6F6;
-  font-size: 0.75rem;
+  font-size: 0.5rem;
   padding: 20px 0;
 }
 
